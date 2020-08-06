@@ -14,14 +14,14 @@
     
 > ## **دوره ها**
 --- 
-* Network Plus
-* MCSE 2012 Server Infrastructure 
-* Service Desk 
-* ITIL Foundation 2011
+* _**Network Plus**_
+* _**MCSE 2012 Server Infrastructure**_ 
+* _**Service Desk**_ 
+* _**ITIL Foundation 2011**_
 
 > ## **سایر مهارت ها**
 ---
-* Service Desk 
+* _**Service Desk**_ 
 * _**L**__a__**T**__e__**X**_
 
 > ## **راه های تماس**
