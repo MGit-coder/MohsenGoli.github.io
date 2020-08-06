@@ -1,4 +1,4 @@
-                                                     ### سوابق وتجربیات
+### سوابق وتجربیات
 ### اطلاعات فردی 
 ---
 ### محسن گلی
@@ -16,7 +16,9 @@
 * MCSE 2012 Server Infrastructure 
 * Service Desk 
 * ITIL Foundation 2011
+### علاقه ها
+---
 
-
-
-
+### راه های تماس
+---
++ https://quera.ir/dashboard/
