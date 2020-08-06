@@ -1,5 +1,4 @@
 # سوابق وتجربیات
-
 > ## **اطلاعات فردی**
 ---
 - **محسن گلی**
@@ -25,4 +24,4 @@
 
 > ## **راه های تماس**
 ---
-_https://quera.ir/profile/mohsengoli44_
+> https://quera.ir/profile/mohsengoli44
