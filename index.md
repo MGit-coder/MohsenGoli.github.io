@@ -10,9 +10,9 @@
 ### دوره ها
 ---
 * Network Plus
-+ MCSE 2012 Server Infrastructure 
-+ Service Desk 
-+ ITIL 2011
+* MCSE 2012 Server Infrastructure 
+* Service Desk 
+* ITIL Foundation 2011
 
 
 
