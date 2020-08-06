@@ -1,16 +1,17 @@
-محسن گلی 
+### اطلاعات فردی 
+------
++محسن گلی
 دانشجوی کارشناسی مهندسی کامپیوتر- دانشگاه پیام نور تهران شمال
 
 اطلاعات شغلی
 تکنسین پشتیبانی شبکه وکاربران به مدت ده سال 
 
-
-دوره های گذرانده شده
-
--Network Plus
--MCSE 2012 Server Infrastructure 
--Service Desk 
--ITIL 2011
+### دوره ها
+-----
++Network Plus
++MCSE 2012 Server Infrastructure 
++Service Desk 
++ITIL 2011
 
 
 
