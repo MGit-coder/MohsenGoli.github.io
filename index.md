@@ -15,7 +15,7 @@
     
 > ### **دوره ها**
 --- 
-* **Network Plus**
+* **Network+**
 * **MCSE 2012 Server Infrastructure**
 * **ITIL Foundation 2011**
 
