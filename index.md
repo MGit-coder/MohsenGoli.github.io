@@ -1,4 +1,4 @@
-![Logo](https://github.com/MohsenGol/MohsenGol.github.io/raw/master/pic.jpg)
+![Logo](https://github.com/MohsenGol/MohsenGol.github.io/pic.jpg)
 # سوابق وتجربیات
 > ### **اطلاعات فردی**
 ---
