@@ -1,4 +1,4 @@
-![logo](https://github.com/MohsenGol/MohsenGol.github.io/blob/gh-pages/pic1.jpg)
+![image](https://github.com/MohsenGol/MohsenGol.github.io/blob/gh-pages/pic1.jpg)
 ---
 # سوابق وتجربیات
 > ### **اطلاعات فردی**
@@ -27,4 +27,4 @@
 
 > ### **راه های تماس**
 ---
-https://quera.ir/profile/mohsengoli44
+[link](https://quera.ir/profile/mohsengoli44)
