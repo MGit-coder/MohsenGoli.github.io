@@ -27,4 +27,4 @@
 
 > ### **راه های تماس**
 ---
-**Quera Profile** : [link](https://quera.ir/profile/mohsengoli44)
++ ### Quera Profile: [_**Quera**_](https://quera.ir/profile/mohsengoli44)
