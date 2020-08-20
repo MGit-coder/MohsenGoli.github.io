@@ -29,5 +29,4 @@
 ---
 + ### Quera Profile: [_**Quera**_](https://quera.ir/profile/mohsengoli44)
 + ### Quera Resume: [_**Quera**_](https://quera.ir/qcv/)
-
-+ ### [ **ارزیابی** ](https://github.com/MohsenGol/MohsenGol.github.io/blob/gh-pages/MohsenGoli_CV_CheckList_AR_3983.pdf) 
++ ### [ **فرم ارزیابی** ](https://github.com/MohsenGol/MohsenGol.github.io/blob/gh-pages/MohsenGoli_CV_CheckList_AR_3983.pdf) 
