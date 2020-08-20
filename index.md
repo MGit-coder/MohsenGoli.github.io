@@ -28,3 +28,4 @@
 > ### **راه های تماس**
 ---
 + ### Quera Profile: [_**Quera**_](https://quera.ir/profile/mohsengoli44)
++ ### Quera Resume: [_**Quera**_](https://quera.ir/qcv/)
