@@ -27,6 +27,6 @@
 
 > ### **راه های تماس**
 ---
-+ ### Quera Profile: [_**Quera**_](https://quera.ir/profile/mohsengoli44)
-+ ### Quera Resume: [_**Quera**_](https://quera.ir/qcv/)
++ ### [_**Quera Profile**_](https://quera.ir/profile/mohsengoli44)
++ ### [_**Quera Resume**_](https://quera.ir/qcv/)
 + ### [ **فرم ارزیابی** ](https://github.com/MohsenGol/MohsenGol.github.io/blob/gh-pages/MohsenGoli_CV_CheckList_AR_3983.pdf) 
