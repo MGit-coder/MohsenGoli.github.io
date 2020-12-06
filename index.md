@@ -1,5 +1,5 @@
-![pic1](https://user-images.githubusercontent.com/69042715/90293196-c9304300-de98-11ea-9239-1395e1564d01.jpg)
 <div dir="rtl">
+![pic1](https://user-images.githubusercontent.com/69042715/90293196-c9304300-de98-11ea-9239-1395e1564d01.jpg)
 ---
 # سوابق وتجربیات
 > ### **اطلاعات فردی**
